@@ -1,0 +1,47 @@
+{
+  "stability_mark": {
+    "certificate_id": "ORB-X-GENESIS-001",
+    "timestamp": "2026-01-30T12:00:00Z",
+    "system_version": "UCM_4_Core_v1.0",
+    "axiom_enforcement": {
+      "axiom_2_geometry_over_hierarchy": "ENFORCED",
+      "memory_29_dals_separation": "ENFORCED",
+      "memory_22_immutable_observation": "ACTIVE"
+    },
+    "core_4_initialization": {
+      "caleon": {
+        "semantic_bias": "Pattern (X-Axis)",
+        "anchor": [0.8, 0.0, 0.0],
+        "volatility": 0.1,
+        "role": "Structural Symmetry Detection"
+      },
+      "cali_x": {
+        "semantic_bias": "Continuity (Y-Axis)",
+        "anchor": [0.0, 0.8, 0.0],
+        "volatility": 0.15,
+        "role": "Historical Stability Guardian"
+      },
+      "kaygee": {
+        "semantic_bias": "Nuance (XYZ-Synthesis)",
+        "anchor": [0.33, 0.33, 0.33],
+        "volatility": 0.8,
+        "role": "Entropy Injection / Edge Case Detection"
+      },
+      "ecm": {
+        "semantic_bias": "Governance (Z-Axis)",
+        "anchor": [0.0, 0.0, 0.8],
+        "volatility": 0.05,
+        "role": "Rule B Compliance Enforcement"
+      }
+    },
+    "geometric_constraints": {
+      "manifold_bounds": [-1.0, 1.0],
+      "consensus_radius": 0.25,
+      "false_collapse_detection": true,
+      "ghost_trace_decay_rate": 0.1
+    },
+    "operational_status": "CLOSED_LOOP_ACTIVE",
+    "cryptographic_hash": "sha256:placeholder",
+    "vault_location": "posteriori/system/genesis_stability_mark.json"
+  }
+}

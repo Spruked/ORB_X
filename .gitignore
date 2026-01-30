@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+.eggs/
+build/
+dist/
+
+# Virtual env
+.venv/
+
+# IDE/OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Qt / matplotlib cache
+*.qt6cache
+
+# Logs and temp
+*.log
+temp_maintenance_vault/
+posteriori_vault/
+
+# Byte-compiled notebooks
+.ipynb_checkpoints/
