@@ -51,6 +51,7 @@ python main.py
 - `space_field.py` — 3D manifold, convergence geometry, integrity overlay
 - `system_maintenance.py` — Maintenance SKG + DoctrineAuditor (delegates to DALS)
 - `ecm_contract.json` — Runtime stability tests
+- `security_audit.py` — Security Integrity Guardian (integrity, process, drift checks)
 - `scripts/stress_test.py` / `scripts/stress_test_high_tension.py` — Load tests
 - `scripts/doctrine_verify.py` — Docs/Memory 29 checks
 
